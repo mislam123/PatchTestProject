@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10188" started-at="2021-03-22T19:10:22Z" finished-at="2021-03-22T19:10:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10188" started-at="2021-03-22T19:10:22Z" finished-at="2021-03-22T19:10:32Z">
+      <class name="com.patch.qa.AAA_PatchHomePage">
+        <test-method status="PASS" signature="assertTest()[pri:0, instance:com.patch.qa.AAA_PatchHomePage@1593948d]" name="assertTest" duration-ms="10112" started-at="2021-03-22T15:10:22Z" finished-at="2021-03-22T15:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertTest -->
+      </class> <!-- com.patch.qa.AAA_PatchHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
